@@ -23,7 +23,7 @@ Please note that a minimum of 3 points is required to draw the first lines of th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
