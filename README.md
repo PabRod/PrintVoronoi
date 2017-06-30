@@ -3,6 +3,8 @@ A simple Matlab tool for printing a [Voronoi diagram](https://en.wikipedia.org/w
 
 ![](/img/example.png)
 
+More information (in Spanish) in my blog [Fuga de cerebros](http://fuga.naukas.com/2017/06/29/cree-su-propio-diagrama-de-voronoi/).
+
 ## Getting Started
 
 Load an image using:
