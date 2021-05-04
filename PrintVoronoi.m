@@ -1,4 +1,4 @@
-function PrintVoronoi(filename)
+function PrintVoronoi(C:\Users\Usuario\Desktop\ARQUITECTURA\4 ARQUITECTURA\Nueva carpeta\Fiesta\1 500 ENTORNO.pdf)
 %% PRINTVORONOI loads the image stored in filename and lets the user draw a
 % point-by-point Voronoi tesselation.
 %
